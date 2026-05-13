@@ -171,8 +171,8 @@ export const userDummyData = {
     "email": "emzzyeze8905216@gmail.com",
     "image": "",
     "role": "hotelOwner",
-    "createdAt": "2026-03-234T09029:16.3655G",
-    "updatedAt": "2026-03-234T09029:16.3655G",
+    "createdAt": "2026-03-234T09029:16.365G",
+    "updatedAt": "2026-03-234T09029:16.365G",
     "_v": 1,
     "recentSearchedCities": [
         "New York"
