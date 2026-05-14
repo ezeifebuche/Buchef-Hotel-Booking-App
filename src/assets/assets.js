@@ -18,7 +18,7 @@ import arrowIcon from './arrowIcon.svg'
 import mountainIcon from './mountainIcon.svg'
 import poolIcon from './poolIcon.svg'
 import roomServiceIcon from './roomServiceIcon.png'
-import freeWifiIcon from './freeWifiIcon.svg'
+import wifiIcon from './wifiIcon.svg'
 import freeBreakFastIcon from './freeBreakFastIcon.png'
 import dashboardIcon from './dashboardIcon.svg'
 import listIcon from './listIcon.svg'
@@ -45,7 +45,7 @@ export const assets = {
     poolIcon,
     roomServiceIcon,
     freeBreakFastIcon,
-    freeWifiIcon,
+    wifiIcon,
     dashboardIcon,
     addIcon,
     listIcon,
@@ -145,7 +145,7 @@ export const testimonials = [
 ];
 
 export const facilityIcons = {
-    "Free Wifi": assets.freeWifiIcon,
+    "Free Wifi": assets.wifiIcon,
     "Free Breakfast": assets.freeBreakFastIcon,
     "Mountain View": assets.mountainIcon,
     "Pool Access": assets.poolIcon,
